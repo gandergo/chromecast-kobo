@@ -1,0 +1,14 @@
+{
+  "name": "chromecast-kobo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A reading Chromecast receiver that displays on a Kobo Libra Colour.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
